@@ -2166,3 +2166,276 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-12-23 18:49:21,391 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
 2019-12-23 18:49:25,134 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:edge-service:0.0.1-SNAPSHOT @ F:\microservices-workspace\edge-service\pom.xml.
 2019-12-23 18:49:26,678 [Worker-12: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:eureka-server:0.0.1-SNAPSHOT @ F:\microservices-workspace\eureka-server\pom.xml.
+2019-12-23 19:14:40,321 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-12-23 19:27:59,165 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:product-catalogue:0.0.1-SNAPSHOT @ F:\microservices-workspace\product-catalogue\pom.xml.
+2019-12-23 19:28:01,071 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE.pom
+2019-12-23 19:28:01,220 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE.pom
+2019-12-23 19:28:01,636 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE.pom
+2019-12-23 19:28:01,787 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE.pom
+2019-12-23 19:28:03,756 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/3.2.3.RELEASE/spring-data-rest-parent-3.2.3.RELEASE.pom
+2019-12-23 19:28:04,045 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-parent/3.2.3.RELEASE/spring-data-rest-parent-3.2.3.RELEASE.pom
+2019-12-23 19:28:04,902 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE.pom
+2019-12-23 19:28:05,051 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE.pom
+2019-12-23 19:28:05,207 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.pom
+2019-12-23 19:28:06,912 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.pom
+2019-12-23 19:28:07,260 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.pom
+2019-12-23 19:28:07,407 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.pom
+2019-12-23 19:28:07,554 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/2.0.0.RELEASE/spring-plugin-2.0.0.RELEASE.pom
+2019-12-23 19:28:07,990 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin/2.0.0.RELEASE/spring-plugin-2.0.0.RELEASE.pom
+2019-12-23 19:28:08,165 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.pom
+2019-12-23 19:28:08,314 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.pom
+2019-12-23 19:28:09,469 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/parent/1.14/parent-1.14.pom
+2019-12-23 19:28:10,602 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/parent/1.14/parent-1.14.pom
+2019-12-23 19:28:10,965 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.pom
+2019-12-23 19:28:11,254 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.pom
+2019-12-23 19:28:11,553 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE.jar
+2019-12-23 19:28:11,721 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE.jar
+2019-12-23 19:28:11,869 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE.jar
+2019-12-23 19:28:34,673 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE.jar
+2019-12-23 19:28:34,818 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE.jar
+2019-12-23 19:28:38,103 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE.jar
+2019-12-23 19:28:38,249 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.jar
+2019-12-23 19:29:27,249 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE.jar
+2019-12-23 19:29:27,403 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.jar
+2019-12-23 19:29:28,098 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE.jar
+2019-12-23 19:29:28,245 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar
+2019-12-23 19:29:28,541 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2.jar
+2019-12-23 19:29:28,705 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.jar
+2019-12-23 19:29:58,034 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE.jar
+2019-12-23 19:29:59,814 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/main/java
+2019-12-23 19:29:59,815 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:29:59,820 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:29:59,827 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/test/java
+2019-12-23 19:30:00,519 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 123 sec
+2019-12-23 19:30:00,525 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-23 19:30:01,636 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:product-catalogue:0.0.1-SNAPSHOT @ F:\microservices-workspace\product-catalogue\pom.xml.
+2019-12-23 19:30:03,489 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE-sources.jar
+2019-12-23 19:30:03,640 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-data-rest/2.2.2.RELEASE/spring-boot-starter-data-rest-2.2.2.RELEASE-sources.jar
+2019-12-23 19:30:03,714 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/main/java
+2019-12-23 19:30:03,715 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:30:03,717 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:30:03,725 [Worker-6: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/test/java
+2019-12-23 19:30:03,729 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-rest:2.2.2.RELEASE
+2019-12-23 19:30:04,538 [Worker-6: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2019-12-23 19:30:05,306 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-23 19:30:05,474 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE-sources.jar
+2019-12-23 19:30:06,011 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:product-catalogue:0.0.1-SNAPSHOT @ F:\microservices-workspace\product-catalogue\pom.xml.
+2019-12-23 19:30:06,141 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-webmvc/3.2.3.RELEASE/spring-data-rest-webmvc-3.2.3.RELEASE-sources.jar
+2019-12-23 19:30:06,334 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:3.2.3.RELEASE
+2019-12-23 19:30:07,741 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/main/java
+2019-12-23 19:30:07,741 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:30:07,742 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 19:30:07,743 [Worker-44: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/test/java
+2019-12-23 19:30:08,338 [Worker-44: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2019-12-23 19:30:08,614 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE-sources.jar
+2019-12-23 19:30:21,106 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-rest-core/3.2.3.RELEASE/spring-data-rest-core-3.2.3.RELEASE-sources.jar
+2019-12-23 19:30:21,209 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:22,454 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE-sources.jar
+2019-12-23 19:30:23,124 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/1.0.2.RELEASE/spring-hateoas-1.0.2.RELEASE-sources.jar
+2019-12-23 19:30:23,200 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:23,796 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE-sources.jar
+2019-12-23 19:30:24,115 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/2.0.0.RELEASE/spring-plugin-core-2.0.0.RELEASE-sources.jar
+2019-12-23 19:30:24,185 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:24,746 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2-sources.jar
+2019-12-23 19:30:25,049 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/atteo/evo-inflector/1.2.2/evo-inflector-1.2.2-sources.jar
+2019-12-23 19:30:25,118 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:25,771 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE-sources.jar
+2019-12-23 19:30:26,431 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/2.2.2.RELEASE/spring-boot-devtools-2.2.2.RELEASE-sources.jar
+2019-12-23 19:30:26,501 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:30:26,504 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-rest:2.2.2.RELEASE
+2019-12-23 19:30:26,507 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:3.2.3.RELEASE
+2019-12-23 19:30:26,509 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:26,511 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:26,513 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:26,516 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:26,519 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:30:26,521 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-data-rest:2.2.2.RELEASE
+2019-12-23 19:30:26,523 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:3.2.3.RELEASE
+2019-12-23 19:30:26,526 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:26,528 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:26,531 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:26,534 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:26,537 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:30:26,540 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-webmvc:3.2.3.RELEASE
+2019-12-23 19:30:26,543 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:26,545 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:26,548 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:26,551 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:26,554 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:30:26,557 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:26,559 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:26,562 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:26,565 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:26,567 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:30:26,569 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.data:spring-data-rest-core:3.2.3.RELEASE
+2019-12-23 19:30:26,572 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:1.0.2.RELEASE
+2019-12-23 19:30:26,574 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:2.0.0.RELEASE
+2019-12-23 19:30:26,576 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.atteo:evo-inflector:1.2.2
+2019-12-23 19:30:26,579 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:2.2.2.RELEASE
+2019-12-23 19:42:16,936 [Worker-51: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:42:17,015 [Worker-51: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 19:42:17,043 [Worker-51: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 19:42:17,051 [Worker-51: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:42:17,056 [Worker-51: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 19:42:51,717 [Worker-52: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:42:51,718 [Worker-52: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 19:42:51,719 [Worker-52: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 19:42:51,721 [Worker-52: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:42:51,721 [Worker-52: Launching eureka-server - EurekaServerApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\eureka-server\src\test\resources
+2019-12-23 19:43:11,742 [Worker-51: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:43:11,743 [Worker-51: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 19:43:11,743 [Worker-51: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 19:43:11,745 [Worker-51: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:43:11,745 [Worker-51: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 19:56:36,947 [Worker-58: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:56:36,949 [Worker-58: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 19:56:36,950 [Worker-58: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 19:56:36,951 [Worker-58: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:56:36,951 [Worker-58: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 19:58:57,983 [Worker-77: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:58:57,984 [Worker-77: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 19:58:57,985 [Worker-77: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 19:58:57,987 [Worker-77: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 19:58:57,987 [Worker-77: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 20:01:37,564 [Worker-67: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:01:37,564 [Worker-67: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:01:37,564 [Worker-67: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:01:37,564 [Worker-67: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:01:37,564 [Worker-67: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:04:31,213 [Worker-64: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:04:31,221 [Worker-64: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:04:31,221 [Worker-64: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:04:31,221 [Worker-64: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:04:31,221 [Worker-64: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 20:05:56,464 [Worker-78: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:05:56,465 [Worker-78: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:05:56,466 [Worker-78: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:05:56,468 [Worker-78: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:05:56,468 [Worker-78: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:28:05,686 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:28:05,686 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:28:05,701 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:28:05,701 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:28:05,701 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:31:29,396 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:31:29,397 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:31:29,398 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:31:29,399 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:31:29,399 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:33:25,500 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:33:25,500 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:33:25,500 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:33:25,500 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:33:25,500 [Worker-83: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:39:11,713 [Worker-84: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:39:11,713 [Worker-84: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:39:11,714 [Worker-84: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:39:11,715 [Worker-84: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:39:11,715 [Worker-84: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:42:58,831 [Worker-78: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:42:58,831 [Worker-78: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:42:58,832 [Worker-78: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:42:58,834 [Worker-78: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:42:58,834 [Worker-78: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 20:47:55,704 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:47:55,704 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:47:55,705 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:47:55,707 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:47:55,707 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 20:48:00,203 [Worker-89: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:48:00,203 [Worker-89: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:48:00,203 [Worker-89: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:48:00,203 [Worker-89: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:48:00,203 [Worker-89: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:50:11,544 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:50:11,545 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:50:11,546 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:50:11,546 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:50:11,546 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:50:51,247 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:50:51,247 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:50:51,248 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:50:51,250 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:50:51,250 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:51:26,328 [Worker-85: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:51:26,328 [Worker-85: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:51:26,328 [Worker-85: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:51:26,328 [Worker-85: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:51:26,328 [Worker-85: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:51:49,392 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:51:49,392 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:51:49,393 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:51:49,394 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:51:49,394 [Worker-54: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:57:14,258 [Worker-95: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:57:14,258 [Worker-95: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:57:14,259 [Worker-95: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:57:14,261 [Worker-95: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:57:14,261 [Worker-95: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 20:57:32,392 [Worker-95: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:57:32,392 [Worker-95: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 20:57:32,392 [Worker-95: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 20:57:32,392 [Worker-95: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 20:57:32,392 [Worker-95: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 21:01:27,238 [Worker-96: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:01:27,238 [Worker-96: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:01:27,238 [Worker-96: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:01:27,238 [Worker-96: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:01:27,238 [Worker-96: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:05:11,040 [Worker-94: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:05:11,040 [Worker-94: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:05:11,040 [Worker-94: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:05:11,040 [Worker-94: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:05:11,040 [Worker-94: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:05:41,931 [Worker-97: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:05:41,931 [Worker-97: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:05:41,931 [Worker-97: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:05:41,948 [Worker-97: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:05:41,948 [Worker-97: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 21:06:45,353 [Worker-97: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:06:45,353 [Worker-97: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:06:45,353 [Worker-97: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:06:45,355 [Worker-97: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:06:45,355 [Worker-97: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:09:48,487 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:09:48,487 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:09:48,488 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:09:48,489 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:09:48,489 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:11:28,930 [Worker-88: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:11:28,931 [Worker-88: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:11:28,931 [Worker-88: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:11:28,933 [Worker-88: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:11:28,933 [Worker-88: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:12:49,479 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:12:49,480 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:12:49,480 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:12:49,482 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:12:49,482 [Worker-54: Launching product-catalogue - ProductCatalogueApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\product-catalogue\src\test\resources
+2019-12-23 21:14:43,951 [Worker-91: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:14:43,951 [Worker-91: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:14:43,952 [Worker-91: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:14:43,954 [Worker-91: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:14:43,954 [Worker-91: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:17:10,269 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:17:10,269 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-12-23 21:17:10,269 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-12-23 21:17:10,269 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-23 21:17:10,269 [Worker-90: Launching edge-service - EdgeServiceApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\microservices-workspace\edge-service\src\test\resources
+2019-12-23 21:43:21,229 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-12-23 21:43:21,945 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:edge-service:0.0.1-SNAPSHOT @ F:\microservices-workspace\edge-service\pom.xml.
+2019-12-23 21:43:22,586 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:product-catalogue:0.0.1-SNAPSHOT @ F:\microservices-workspace\product-catalogue\pom.xml.
+2019-12-23 21:43:23,482 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.pom
+2019-12-23 21:43:23,794 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.pom
+2019-12-23 21:43:24,076 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.jar
+2019-12-23 21:43:24,607 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5.jar
+2019-12-23 21:43:24,857 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.suraj.poc:eureka-server:0.0.1-SNAPSHOT @ F:\microservices-workspace\eureka-server\pom.xml.
+2019-12-23 21:43:25,779 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/main/java
+2019-12-23 21:43:25,779 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 21:43:25,779 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /product-catalogue/src/main/resources
+2019-12-23 21:43:25,779 [Worker-108: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /product-catalogue/src/test/java
+2019-12-23 21:43:26,326 [Worker-108: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2019-12-23 21:43:27,845 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5-sources.jar
+2019-12-23 21:43:31,895 [Worker-110: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/aspectj/aspectjrt/1.9.5/aspectjrt-1.9.5-sources.jar
+2019-12-23 21:43:31,974 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjrt:1.9.5
+2019-12-23 21:43:31,974 [Worker-110: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.aspectj:aspectjrt:1.9.5
